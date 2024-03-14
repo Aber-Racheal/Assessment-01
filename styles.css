@@ -159,6 +159,19 @@ margin-left: 5%;
 
 }
 
+#Autumn{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 60px;
+}
+
+
+#autumnlink{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
 .autumncollection{
     display: flex;
     flex-direction: row;
