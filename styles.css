@@ -1,0 +1,191 @@
+.topbar{
+    display: flex;
+    background-color: rgb(56, 121, 56);
+    flex-direction: row;
+    justify-content: space-between;
+    color: whitesmoke;
+    height: 50px;
+
+}
+
+
+#link1{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    color:black;
+    align-items: flex-start;
+    gap: 90px;
+    margin-top: 2%;
+    margin-left: 5%;
+
+}
+
+
+#link2{
+    text-decoration: none;
+    color: black;
+
+
+}
+
+#link21{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+
+.be-stylish{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#bestylish{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#shopnow{
+    color: rgb(56, 47, 47);
+    font-weight: bolder;
+}
+
+
+
+.set-of-clothes-1{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.handbags-glasses{
+    display: flex;
+    flex-direction: row;
+}
+
+.Modern-Design{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-left: 50%;
+    gap: 150px;
+}
+
+#Childrens{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#shopcollection{
+color: rgb(49, 46, 46);
+
+}
+
+
+
+.midnavbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5%;
+    gap: 100px;
+    justify-content: center;
+}
+
+#link3{
+font-size: xx-large;
+font-weight: bolder;
+text-decoration: none;
+color: black;
+}
+
+.latest{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+}
+
+
+.Beanie{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 5%;
+}
+
+
+
+
+#Beanie{
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+}
+
+
+#Shopnow{
+    color: black;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+
+}
+#knit{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+
+.cottonpolyester{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 400px;
+margin-left: 5%;
+
+}
+
+.autumncollection{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.anothercollection{
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+.footerdiv{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    background-color: whitesmoke;
+    justify-content: space-between;
+    justify-content: center;
+    gap: 100px;
+}
+
+
+@media all  and (min-width:480px) and (max-width: 992px){
+
+
+}
