@@ -39,7 +39,7 @@ This project, though simple, represents a significant achievement in my developm
 
 
 **Deployment**
-View the deployed project here.
+View the deployed project https://assessment-01.vercel.app/.
 
 **How to View Locally**
 
